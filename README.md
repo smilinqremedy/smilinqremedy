@@ -7,7 +7,7 @@ I build high-performance backend systems, interactive web applications, and prod
 - 🧠 **AI Focus:** LLM integration, retrieval pipelines (RAG), model inference, and AI workflow automation
 - 💻 **Software Focus:** Concurrent systems in Go, full-stack web applications, clean API architecture
 - 💬 **Ask Me About:** Go, Python, TypeScript, modern web development, and AI engineering
-- 📫 **Reach Me:** [your.email@example.com] | [LinkedIn](https://linkedin.com)
+- 📫 **Reach Me:** [ochechefredrick23@gmail.com] | [LinkedIn](https://linkedin.com)
 
 ---
 
